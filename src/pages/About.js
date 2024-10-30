@@ -8,7 +8,7 @@ const About = () => {
         <div className="about">
           <div className="about-img-holder">
             <img 
-              src="https://raw.githubusercontent.com/idincodingweb/landingpagekece.com/master/img/idinganteng.png" 
+              src="https://raw.githubusercontent.com/idincodingweb/packgambar/refs/heads/main/IMG_20241031_001653.jpg" 
               className="about-img" 
               alt="Idin Iskandar"
             />
